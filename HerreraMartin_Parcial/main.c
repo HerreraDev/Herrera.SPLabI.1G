@@ -109,6 +109,7 @@ int main()
                 {
                     controller_guardarComoTexto("BicisOrdenadas.csv",listaMapeada);
                     printf("guarado con exito.\n");
+                    system("pause");
                 }
                 break;
             case 7:
