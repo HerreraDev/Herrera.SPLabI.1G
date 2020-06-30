@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1593470946 source:c:\users\marti\desktop\facultad\programacion 1\parcial 2\herrera.splabi.1g\herreramartin_parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593470466 c:\users\marti\desktop\facultad\programacion 1\parcial 2\herrera.splabi.1g\herreramartin_parcial\linkedlist.h
+
+1593476580 source:c:\users\marti\desktop\facultad\programacion 1\parcial 2\herrera.splabi.1g\herreramartin_parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"bicicletas.h"
+	"validacionesHerrera.h"
+
+1593469199 c:\users\marti\desktop\facultad\programacion 1\parcial 2\herrera.splabi.1g\herreramartin_parcial\parser.h
+
+1593469260 source:c:\users\marti\desktop\facultad\programacion 1\parcial 2\herrera.splabi.1g\herreramartin_parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicletas.h"
+
+1589393919 source:c:\users\marti\desktop\facultad\programacion 1\parcial 2\herrera.splabi.1g\herreramartin_parcial\validacionesherrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacionesHerrera.h"
+
+1592069024 c:\users\marti\desktop\facultad\programacion 1\parcial 2\herrera.splabi.1g\herreramartin_parcial\validacionesherrera.h
+
+1593479303 source:c:\users\marti\desktop\facultad\programacion 1\parcial 2\herrera.splabi.1g\herreramartin_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"controller.h"
+	"validacionesHerrera.h"
+	"bicicletas.h"
+
+1593474379 c:\users\marti\desktop\facultad\programacion 1\parcial 2\herrera.splabi.1g\herreramartin_parcial\controller.h
+
+1593477190 source:c:\users\marti\desktop\facultad\programacion 1\parcial 2\herrera.splabi.1g\herreramartin_parcial\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicletas.h"
+	"validacionesHerrera.h"
+
+1593477519 c:\users\marti\desktop\facultad\programacion 1\parcial 2\herrera.splabi.1g\herreramartin_parcial\bicicletas.h
+
